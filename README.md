@@ -1,4 +1,4 @@
-# Introduccion-GPT-3_ESP
+# Introduccion a GPT-3 (español)
 Materiales de uso de la API de GPT-3 con Python preparados para las clases de Procesamiento del Lenguaje Natural del bootcamp de Ciencia de Datos en The Bridge, a partir de la documentación y uso de la API de OpenAI.
 
 Como destripamiento, podría añadir que GPT-3, aunque podría utilizarse para corrección de textos en inglés, en español deja mucho que desear en este aspecto; sería más que recomendable que, en algún punto del futuro, se pudiese desarrollar un corpus suficientemente extenso, rico y del uso correcto del español para poder entrenar a un modelo de dimensiones similares al desarrollado por GPT-3 y que sea eficiente en español; qué bonito sería que existiera un proyecto embarcado en esta tarea en España y se invirtiera en él… pero bueno, como sabemos, soñar es gratis.
